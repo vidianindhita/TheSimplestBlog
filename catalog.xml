@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://enigmatic-mountain-6874.herokuapp.com/HelloService?wsdl" uri="src/conf/xml-resources/web-service-references/HelloService/wsdl/enigmatic-mountain-6874.herokuapp.com/HelloService.wsdl"/>
+    <system systemId="http://localhost:8080/webServiceBlog/SimplestBlog" uri="src/conf/xml-resources/web-service-references/SimplestBlog/wsdl/localhost_8080/webServiceBlog/SimplestBlog.xml"/>
+    <system systemId="http://localhost:8080/webServiceBlog/SimplestBlog?wsdl" uri="src/conf/xml-resources/web-service-references/SimplestBlog/wsdl/localhost_8080/webServiceBlog/SimplestBlog.wsdl"/>
+    <system systemId="http://localhost:8080/webServiceBlog/SimplestBlog?xsd=1" uri="src/conf/xml-resources/web-service-references/SimplestBlog/wsdl/localhost_8080/webServiceBlog/SimplestBlog.xsd_1.xsd"/>
+</catalog>
